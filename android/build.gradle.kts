@@ -1,5 +1,6 @@
 plugins {
     id("org.jetbrains.compose") version "1.0.0"
+    id("org.jmailen.kotlinter")
     id("com.android.application")
     kotlin("android")
 }
